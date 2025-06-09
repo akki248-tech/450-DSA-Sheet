@@ -5,7 +5,6 @@
 
 ## Overview 👀
 
-![cover](https://user-images.githubusercontent.com/63164037/194750460-b42c8096-dbc9-43c0-aaa0-5e581b357c4a.png)
 
 - **Topic wise question search 🔍**
 - **Random question picker😉**
@@ -32,9 +31,7 @@
 <!-- ## Deployed Website 🌎
 https://a2zdsa.pages.dev/ -->
 
-## Sample Demo 📽
 
-https://user-images.githubusercontent.com/63164037/193985341-85f57456-6057-4444-b2c9-51f1ccd9dc83.mp4
 
 ## Run Locally 💻
 
