@@ -1,4 +1,4 @@
-# A2Z-DSA Tracker 🚀
+# 450 DSA Sheet 🚀
 
 [![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://a2zdsa.pages.dev/)
@@ -16,13 +16,13 @@
 - **Clean UI ⚡**
 - **[Stress Relief Game] 🎮**
 
-## What is A2Z-DSA Tracker 🤔
+## What is 450 DSA Sheet🤔
 
-#### A2Z DSA Tracker is a comprehensive list of 450+ topic wise questions to build your confidence in data structure and algorithms and prepare yourself for placements.
+#### 450 DSA Sheet is a comprehensive list of 450+ topic wise questions to build your confidence in data structure and algorithms and prepare yourself for placements.
 
-#### A2Z DSA Tracker doesn't guarantee a job but guarantees your confidence in solving any coding problem if done in the right way 👍🏻.
+#### 450 DSA Sheet doesn't guarantee a job but guarantees your confidence in solving any coding problem if done in the right way 👍🏻.
 
-#### More details on how _[A2Z DSA Tracker]_ can help you -> _[Here]_.
+#### More details on how _[450 DSA Sheet]_ can help you -> _[Here]_.
 
 ## Dependencies 🗃
 
