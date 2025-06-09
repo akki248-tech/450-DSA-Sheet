@@ -93,7 +93,7 @@ const Login = () => {
   const navigate = useNavigate();
 
   const handleLogin = () => {
-    if (email === 'aarushit459@gmail.com' && password === 'a@rushi123') {
+    if (email === 'akshayt459@gmail.com' && password === 'a@kshy123') {
       toast({
         title: 'Login Successful',
         status: 'success',
